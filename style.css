@@ -163,6 +163,12 @@ header div h1{
     background-color: bisque;
 }
 
+/* blog section  */
 
-
+.blog_section .blog{
+    display: flex;
+    gap: 83px;
+    justify-content: center;
+    align-items: center;
+}
 
